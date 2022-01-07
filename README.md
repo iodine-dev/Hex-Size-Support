@@ -6,7 +6,7 @@ A Foundry VTT add-on module that allows the use of alternative snapping logic fo
 
 Hex Token Size Support
 
-When installing an Add-On Module in Foundry, use the manifest url: https://raw.githubusercontent.com/Ourobor/Hex-Size-Support/master/module.json
+When installing an Add-On Module in Foundry, use the manifest url: https://raw.githubusercontent.com/iodine-dev/Hex-Size-Support/master/module.json
 
 Alternatively download the zip of the project and unzip it in the modules directory of your Foundry VTT install.
 
